@@ -7,7 +7,7 @@
 
 Add the lines below to `Packages/manifest.json`
 
-for version x.x.x
+for version 1.0.0
 ```csharp
-"com.pancake.__package_name__": "https://github.com/pancake-llc/packagename.git#x.x.x",
+"com.pancake.notification": "https://github.com/pancake-llc/notification.git#1.0.0",
 ```
