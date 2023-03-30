@@ -1,5 +1,5 @@
 {
-    "name": "pancake@notification",
+    "name": "Pancake.Notification",
     "rootNamespace": "",
     "references": [
         "GUID:ac145e6b8c6034cdbadc8c6e26aedbcf",
